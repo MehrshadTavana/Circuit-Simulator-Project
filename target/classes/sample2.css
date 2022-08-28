@@ -1,0 +1,53 @@
+.menu-bar{
+    -fx-background-color: rgba(59,55,61,0.79) ;
+}
+.menu .label{
+    -fx-text-fill: white;
+}
+.menu:hover{
+    -fx-background-color: blue;
+}
+.menu-item:hover{
+    -fx-background-color: blue;
+}
+.label{
+    -fx-text-fill: white;
+}
+.menu-item{
+
+    -fx-background-color: rgba(59,55,61,0.79) ;
+}
+.text-field{
+    -fx-background-color: rgba(59, 55, 61, 0.79);
+    -fx-text-fill: white;
+}
+.border-pane{
+    -fx-background-color: rgba(59,55,61,0.79) ;
+}
+.root{
+    -fx-background-color: rgba(59,55,61,0.79) ;
+}
+.button{
+    -fx-background-color: rgba(34, 36, 36, 0.82);
+    -fx-text-fill: white;
+}
+.separator{
+    -fx-background-color: black;
+}
+.tab-pane{
+    -fx-text-fill: white;
+    -fx-background-color: rgba(59,55,61,0.79) ;
+}
+
+.tab{
+    -fx-text-fill: white;
+    -fx-background-color: rgba(91,95,97,0.71);
+}
+.tab-label{
+    -fx-text-fill: white;
+}
+
+.tab-pane *.tab-header-background{
+    -fx-background-color: rgba(59,55,61,0.79);
+}
+

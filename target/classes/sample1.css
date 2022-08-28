@@ -1,0 +1,196 @@
+
+
+.mychart .chart-series-line{
+    -fx-stroke-width: 3px;
+}
+/*.mychart .default-color0.chart-series-line{*/
+/*    -fx-stroke: #ff1123;*/
+/*}*/
+/*.mychart .default-color1.chart-series-line{*/
+/*    -fx-stroke: #50ff11;*/
+/*}*/
+/*.mychart .default-color2.chart-series-line{*/
+/*    -fx-stroke: #cb11ff;*/
+/*}*/
+/*.mychart .default-color3.chart-series-line{*/
+/*    -fx-stroke: #1160ff;*/
+/*}*/
+/*.mychart .default-color4.chart-series-line{*/
+/*    -fx-stroke: #fff311;*/
+/*}*/
+/*.mychart .default-color5.chart-series-line{*/
+/*    -fx-stroke: #11ffff;*/
+/*}*/
+
+/*.mychart .default-color0.chart-legend-item-symbol{*/
+/*    -fx-background-color: #ff1123;*/
+/*    -fx-background-radius: 0;*/
+/*    -fx-scale-x: 5;*/
+/*    -fx-scale-y: 0.2;*/
+/*}*/
+
+
+
+
+.mychart .axis-label {
+    -fx-text-fill: #4682b4;
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-style: italic;
+}
+.mychart .chart-legend {
+    -fx-background-color:  transparent;
+    -fx-padding: 20px;
+}
+.mychart1 .axis-label {
+    -fx-text-fill: #4682b4;
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-style: italic;
+}
+.mychart2 .axis-label {
+    -fx-text-fill: #4682b4;
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-style: italic;
+}
+
+
+
+.mychart .chart-legend-item{
+    -fx-text-fill: #11ffbc;
+    -fx-font-size: 20px;
+}
+.mychart .chart-legend-item-symbol{
+
+    -fx-background-radius: 0;
+    -fx-scale-x: 4;
+    -fx-scale-y: 0.2;
+}
+/*.mychart .default-color1.chart-legend-item-symbol{*/
+/*    -fx-background-color: #50ff11;*/
+/*    -fx-background-radius: 0;*/
+/*    -fx-scale-x: 4;*/
+/*    -fx-scale-y: 0.2;*/
+/*}*/
+/*.mychart .default-color2.chart-legend-item-symbol{*/
+/*    -fx-background-color: #cb11ff;*/
+/*    -fx-background-radius: 0;*/
+/*    -fx-scale-x: 4;*/
+/*    -fx-scale-y: 0.2;*/
+/*}*/
+/*.mychart .default-color3.chart-legend-item-symbol{*/
+/*    -fx-background-color: #1160ff;*/
+/*    -fx-background-radius: 0;*/
+/*    -fx-scale-x: 4;*/
+/*    -fx-scale-y: 0.2;*/
+/*}*/
+/*.mychart .default-color4.chart-legend-item-symbol{*/
+/*    -fx-background-color: #fff311;*/
+/*    -fx-background-radius: 0;*/
+/*    -fx-scale-x: 4;*/
+/*    -fx-scale-y: 0.2;*/
+/*}*/
+/*.mychart .default-color5.chart-legend-item-symbol{*/
+/*    -fx-background-color: #11ffff;*/
+/*    -fx-background-radius: 0;*/
+/*    -fx-scale-x: 4;*/
+/*    -fx-scale-y: 0.2;*/
+/*}*/
+
+.mychart .chart-plot-background {
+    -fx-background-color: lightgray;
+}
+.mychart .chart-vertical-grid-lines {
+    -fx-stroke: black;
+}
+.mychart .chart-horizontal-grid-lines {
+    -fx-stroke: black;
+}
+.mychart .chart-alternative-row-fill {
+    -fx-fill: darkgrey;
+    -fx-stroke: transparent;
+    -fx-stroke-width: 0;
+}
+.mychart .chart-title {
+    -fx-text-fill: #4682b4;
+    -fx-font-size: 1.6em;
+}
+.mychart1 .chart-series-line{
+    -fx-stroke-width: 2px;
+}
+
+
+.mychart1 .chart-legend-item-symbol{
+    -fx-background-radius: 0;
+    -fx-scale-x: 4;
+    -fx-scale-y: 0.2;
+}
+.mychart1 .chart-legend {
+    -fx-background-color:  transparent;
+    -fx-padding: 20px;
+}
+
+
+
+.mychart1 .chart-legend-item {
+    -fx-font-size: 20px;
+    -fx-text-fill: #11ffbc;
+}
+
+.mychart1 .chart-plot-background {
+    -fx-background-color: lightgray;
+}
+.mychart1 .chart-vertical-grid-lines {
+    -fx-stroke: black;
+}
+.mychart1 .chart-horizontal-grid-lines {
+    -fx-stroke: black;
+}
+.mychart1 .chart-alternative-row-fill {
+    -fx-fill:darkgrey;
+    -fx-stroke: transparent;
+    -fx-stroke-width: 0;
+}
+.mychart1 .chart-title {
+    -fx-text-fill: #4682b4;
+    -fx-font-size: 1.6em;
+}
+.mychart2 .chart-series-line{
+    -fx-stroke-width: 2px;
+}
+
+.mychart2 .chart-legend-item-symbol{
+    -fx-background-radius: 0;
+    -fx-scale-x: 4;
+    -fx-scale-y: 0.2;
+}
+.mychart2 .chart-legend {
+    -fx-background-color:  transparent;
+    -fx-padding: 20px;
+}
+
+
+
+.mychart2 .chart-legend-item{
+    -fx-text-fill: #11ffbc;
+    -fx-font-size: 20px;
+}
+
+
+.mychart2 .chart-plot-background {
+    -fx-background-color: lightgray;
+}
+.mychart2 .chart-vertical-grid-lines {
+    -fx-stroke: black;
+}
+.mychart2 .chart-horizontal-grid-lines {
+    -fx-stroke: black;
+}
+.mychart2 .chart-alternative-row-fill {
+    -fx-fill: darkgrey;
+    -fx-stroke: transparent;
+    -fx-stroke-width: 0;
+}
+.mychart2 .chart-title {
+    -fx-text-fill: #4682b4;
+    -fx-font-size: 1.6em;
+}
+
